@@ -30,4 +30,4 @@ Al salir del laberinto se verá la frase "You Win!", la cual determinará que el
 ![Imagen3](https://github.com/DeividN21/Taller_2/blob/main/Instrucciones3.png?raw=true)
 
 # Enlace del Video de Demostración
-- Enlace
+- https://youtu.be/wh_8qpkG8v0
